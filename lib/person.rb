@@ -1,5 +1,5 @@
 class Person
 end
 
-Kyle = Person.new 
+adele_goldberg = Person.new 
 Ashley = Person.new
