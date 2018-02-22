@@ -1,6 +1,6 @@
 class Dog
 end
 
-Ilya = Dog.new 
-Misty = Dog.new
-Dusty = Dog.new
+fido = Dog.new 
+snoopy = Dog.new
+lassie = Dog.new
